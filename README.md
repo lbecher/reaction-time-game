@@ -20,13 +20,14 @@ apertar o botão de reset (botão preto).
 Observação: Imagem ilustrativa! A placa utilizada 
 na figura (ESP32-C3) não é do mesmo modelo que a 
 placa utilizada no projeto real. Os  pinos podem 
-estar em posições diferentes e possuir  funções 
-distintas. A numeração utilizada nas conexões 
+estar em posições diferentes e não possuir as funções 
+necessárias. A numeração utilizada nas conexões 
 foi pensada para ser exclusivamente compatível 
 com o ESP8266 (NodeMCU 0.9). Não reproduza o mesmo 
 esquema para o ESP32-C3! Caso tenha interesse
 em compilar este projeto para o ESP32-C3, consulte as
 especificações de sua placa e faça as alterações
-necessárias.
+necessárias, tanto no código quanto no esquema
+elétrico.
 
 ![image](image.png)
