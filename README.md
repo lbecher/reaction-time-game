@@ -9,7 +9,7 @@ ganha quem apertar o seu botão primeiro. Caso P1
 (botão vermelho) ganhe, será tocada a trilha sonora 
 de Harry Potter e o LED vermelho se acenderá. Caso 
 P2 (botão azul) ganhe, será tocada a trilha de 
-Game of Thrones e o LED azul se ascenderá. As
+Game of Thrones e o LED azul se acenderá. As
 informações do vencedor também aparecerão no
 display, junto de seu tempo de reação em 
 milisegundos. Após cada partida, é necessário
