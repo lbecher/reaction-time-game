@@ -6,7 +6,7 @@ Este projeto utilizou um ESP8266 (NodeMCU 0.9)
 no desenvolvimento de um jogo de tempo de reação.
 Após o sinal sonoro e luminoso de ambos os LEDs,
 ganha quem apertar o seu botão primeiro. Caso P1 
-(botão vermelho) ganhe, será tocado a trilha sonora 
+(botão vermelho) ganhe, será tocada a trilha sonora 
 de Harry Potter e o LED vermelho se acenderá. Caso 
 P2 (botão azul) ganhe, será tocada a trilha de 
 Game of Thrones e o LED azul se ascenderá. As
