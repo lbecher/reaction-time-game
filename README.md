@@ -13,7 +13,7 @@ Game of Thrones e o LED azul se acenderá. As
 informações do vencedor também aparecerão no
 display, junto de seu tempo de reação em 
 milisegundos. Após cada partida, é necessário
-apertar o botão de reset. 
+apertar o botão de reset (botão preto). 
  
 ## Esquema do projeto
 
