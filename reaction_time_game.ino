@@ -23,7 +23,7 @@ const int player_1_led = D5;
 const int player_2_led = D6;
 
 const int player_1_btn = D3;
-const int player_2_btn = D8;
+const int player_2_btn = D7;
 
 const int buzzer = D8;
 
