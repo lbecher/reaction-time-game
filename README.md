@@ -3,7 +3,7 @@
 ## Sobre o projeto
 
 Este projeto utilizou um ESP8266 (NodeMCU 0.9)
-no desenvolvimento de jogo de tempo de reação.
+no desenvolvimento de um jogo de tempo de reação.
 Após o sinal sonoro e luminoso de ambos os LEDs,
 ganha quem apertar o seu botão primeiro. Caso P1 
 (botão vermelho) ganhe, será tocado a trilha sonora 
@@ -17,11 +17,16 @@ apertar o botão de reset.
  
 ## Esquema do projeto
 
-![image](image.png)
-
 Observação: Imagem ilustrativa! A placa utilizada 
-na figura não é do mesmo modelo que a utilizada 
-no projeto real. Os pinos podem estar em posições
-diferentes e possuir funções distintas. A numeração 
-utilizada nas conexões foi pensada para ser 
-exclusivamente compatível com o ESP8266.
+na figura (ESP32-C3) não é do mesmo modelo que a 
+placa utilizada no projeto real. Os  pinos podem 
+estar em posições diferentes e possuir  funções 
+distintas. A numeração utilizada nas conexões 
+foi pensada para ser exclusivamente compatível 
+com o ESP8266 (NodeMCU 0.9). Não reproduza o mesmo 
+esquema para o ESP32-C3! Caso tenha interesse
+em compilar este projeto para o ESP32-C3, consulte as
+especificações de sua placa e faça as alterações
+necessárias.
+
+![image](image.png)
