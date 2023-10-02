@@ -30,4 +30,4 @@ especificações de sua placa e faça as alterações
 necessárias, tanto no código quanto no esquema
 elétrico.
 
-![image](image.png)
+![img](img.png)
